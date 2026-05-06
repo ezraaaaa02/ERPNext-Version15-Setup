@@ -1,7 +1,5 @@
 # Install Docker for ERPNext V15
 
-This guide will help you install Docker on your computer so you can run ERPNext V15 easily. Follow the steps below carefully. ✅
-
 ---
 
 ## Step 1: Download Docker Desktop
