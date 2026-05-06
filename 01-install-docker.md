@@ -29,3 +29,8 @@
 
 ```bash
 docker --version
+
+3. You should see something like:
+Docker version 24.0.5, build xyz123
+
+If you see the version, Docker is installed successfully!
